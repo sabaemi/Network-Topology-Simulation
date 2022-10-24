@@ -1,5 +1,6 @@
 This simulation is for the following network:
 	![Screenshot](screenshot.jpg)
+	
 	• Static Topology (same as figure) 
 	• All links: 1Mb 10ms DropTail 
 	• Dynamic Routing (DV) 
